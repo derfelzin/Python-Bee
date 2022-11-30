@@ -1,2 +1,2 @@
 # Python-Bee
- Exercícios realizados de Python.
+ Exercícios realizados de Python-Bee.
